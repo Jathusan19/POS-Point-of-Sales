@@ -1,3 +1,3 @@
 Point Of Sales..
 
-A desktop Application
+A desktop Application done
